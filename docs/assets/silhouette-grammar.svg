@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
+  <title id="title">SUBSTRATE Sprawl Matrix Silhouette Grammar</title>
+  <desc>Vector reference showing luminous Gibson-style architectural Datafortresses with translucent neon light-walls, dense internal lattices, and Shard octahedra.</desc>
+  <rect width="960" height="440" fill="#04070B"/>
+  <g stroke="#0C212C" stroke-width="1">
+    <line x1="0" y1="220" x2="960" y2="220"/>
+    <line x1="320" y1="60" x2="320" y2="410"/>
+    <line x1="640" y1="60" x2="640" y2="410"/>
+  </g>
+  <text x="24" y="34" fill="#2AF5D6" font-family="monospace" font-size="16" font-weight="bold">SUBSTRATE // SPRAWL MATRIX ARCHITECTURAL SILHOUETTES</text>
+  <text x="24" y="52" fill="#3D5A6C" font-family="monospace" font-size="11">TRANSLUCENT NEON LIGHT-WALLS + DENSE LATTICE RIBS (PROCEDURAL THREE.JS GEOMETRY)</text>
+
+  <!-- 1. Enclave (Villa Straylight Spiral Spire) -->
+  <g transform="translate(160,145)">
+    <polygon points="-58,28 -44,-26 44,-26 58,28" fill="#FF2A4B" fill-opacity="0.08" stroke="#FF2A4B" stroke-width="1.3" stroke-dasharray="5 3"/>
+    <ellipse cx="0" cy="0" rx="50" ry="38" transform="rotate(-18)" fill="none" stroke="#FFB000" stroke-width="1.2"/>
+    <polygon points="0,-42 26,0 0,40 -26,0" fill="#2AF5D6" fill-opacity="0.18" stroke="#2AF5D6" stroke-width="1.8"/>
+    <polygon points="0,-24 14,0 0,22 -14,0" fill="#2AF5D6" fill-opacity="0.22" stroke="#99FFF0" stroke-width="1"/>
+    <line x1="18" y1="-8" x2="78" y2="-32" stroke="#2AF5D6" stroke-width="2"/>
+    <line x1="18" y1="10" x2="76" y2="26" stroke="#2AF5D6" stroke-width="2"/>
+    <text x="0" y="64" text-anchor="middle" fill="#2AF5D6" font-family="monospace" font-size="12">ENCLAVE (VILLA STRAYLIGHT)</text>
+    <text x="0" y="79" text-anchor="middle" fill="#3D5A6C" font-family="monospace" font-size="10">Labyrinth Spire + Scarlet ICE Wall</text>
+  </g>
+
+  <!-- 2. Hyperscale Cloud (Monumental Stepped Sense/Net Pyramid) -->
+  <g transform="translate(480,145)">
+    <polygon points="-54,32 54,32 42,14 -42,14" fill="#2AF5D6" fill-opacity="0.14" stroke="#2AF5D6" stroke-width="1.5"/>
+    <polygon points="-40,14 40,14 30,-4 -30,-4" fill="#2AF5D6" fill-opacity="0.18" stroke="#2AF5D6" stroke-width="1.5"/>
+    <polygon points="-28,-4 28,-4 18,-22 -18,-22" fill="#2AF5D6" fill-opacity="0.22" stroke="#2AF5D6" stroke-width="1.5"/>
+    <polygon points="-14,-22 14,-22 0,-46" fill="#2AF5D6" fill-opacity="0.28" stroke="#99FFF0" stroke-width="1.6"/>
+    <line x1="-18" y1="-22" x2="-30" y2="32" stroke="#2AF5D6" stroke-width="0.9" stroke-opacity="0.7"/>
+    <line x1="18" y1="-22" x2="30" y2="32" stroke="#2AF5D6" stroke-width="0.9" stroke-opacity="0.7"/>
+    <line x1="0" y1="-46" x2="0" y2="32" stroke="#99FFF0" stroke-width="1" stroke-opacity="0.8"/>
+    <text x="0" y="64" text-anchor="middle" fill="#2AF5D6" font-family="monospace" font-size="12">HYPERSCALE CLOUD</text>
+    <text x="0" y="79" text-anchor="middle" fill="#3D5A6C" font-family="monospace" font-size="10">Stepped Neon Monolith Pyramid</text>
+  </g>
+
+  <!-- 3. University Cluster (Crystalline Lattice Tower) -->
+  <g transform="translate(800,145)">
+    <polygon points="0,-46 38,26 -38,26" fill="#2AF5D6" fill-opacity="0.09" stroke="#2AF5D6" stroke-width="1.6"/>
+    <polygon points="0,-24 22,18 -22,18" fill="#FFB000" fill-opacity="0.14" stroke="#FFB000" stroke-width="1.2"/>
+    <line x1="0" y1="-46" x2="-22" y2="18" stroke="#2AF5D6" stroke-width="0.9"/>
+    <line x1="0" y1="-46" x2="22" y2="18" stroke="#2AF5D6" stroke-width="0.9"/>
+    <line x1="-38" y1="26" x2="22" y2="18" stroke="#2AF5D6" stroke-width="0.9"/>
+    <line x1="38" y1="26" x2="-22" y2="18" stroke="#2AF5D6" stroke-width="0.9"/>
+    <text x="0" y="64" text-anchor="middle" fill="#2AF5D6" font-family="monospace" font-size="12">UNIVERSITY CLUSTER</text>
+    <text x="0" y="79" text-anchor="middle" fill="#3D5A6C" font-family="monospace" font-size="10">Crystalline Lattice + Amber Core</text>
+  </g>
+
+  <!-- 4. Colocation Vault (Armored Hex Citadel) -->
+  <g transform="translate(160,315)">
+    <polygon points="-46,-14 0,-34 46,-14 46,16 0,34 -46,16" fill="#FFB000" fill-opacity="0.14" stroke="#FFB000" stroke-width="1.8"/>
+    <polygon points="-28,-8 0,-20 28,-8 28,10 0,20 -28,10" fill="#FFB000" fill-opacity="0.18" stroke="#FFD670" stroke-width="1.1"/>
+    <line x1="-46" y1="-14" x2="-28" y2="-8" stroke="#FFB000" stroke-width="1.2"/>
+    <line x1="46" y1="-14" x2="28" y2="-8" stroke="#FFB000" stroke-width="1.2"/>
+    <line x1="0" y1="-34" x2="0" y2="-20" stroke="#FFB000" stroke-width="1.2"/>
+    <line x1="0" y1="34" x2="0" y2="20" stroke="#FFB000" stroke-width="1.2"/>
+    <text x="0" y="64" text-anchor="middle" fill="#FFB000" font-family="monospace" font-size="12">COLOCATION VAULT</text>
+    <text x="0" y="79" text-anchor="middle" fill="#3D5A6C" font-family="monospace" font-size="10">Armored Hex Citadel + Light Shield</text>
+  </g>
+
+  <!-- 5. Regulator / Agency (Crimson Black-ICE Obelisk) -->
+  <g transform="translate(480,315)">
+    <polygon points="-42,-28 42,-28 0,36" fill="#FF2A4B" fill-opacity="0.18" stroke="#FF2A4B" stroke-width="2"/>
+    <polygon points="-24,-22 24,-22 0,18" fill="#FF2A4B" fill-opacity="0.22" stroke="#FF8599" stroke-width="1"/>
+    <ellipse cx="0" cy="-28" rx="54" ry="13" fill="none" stroke="#FF2A4B" stroke-width="1.4" stroke-dasharray="4 4"/>
+    <ellipse cx="0" cy="-12" rx="44" ry="10" fill="none" stroke="#FF2A4B" stroke-width="1"/>
+    <text x="0" y="64" text-anchor="middle" fill="#FF2A4B" font-family="monospace" font-size="12">REGULATOR / WARDEN</text>
+    <text x="0" y="79" text-anchor="middle" fill="#3D5A6C" font-family="monospace" font-size="10">Inverted Scarlet Monolith + ICE</text>
+  </g>
+
+  <!-- 6. Consumer Edge + Shard -->
+  <g transform="translate(800,315)">
+    <polygon points="-40,-8 -10,-30 26,-16 42,14 -14,26" fill="#3D5A6C" fill-opacity="0.10" stroke="#3D5A6C" stroke-width="1.4"/>
+    <line x1="-10" y1="-30" x2="-14" y2="26" stroke="#3D5A6C" stroke-width="1"/>
+    <line x1="-40" y1="-8" x2="42" y2="14" stroke="#3D5A6C" stroke-width="1"/>
+    <g transform="translate(48,-26)">
+      <polygon points="0,-16 11,0 0,16 -11,0" fill="#4DFF88" fill-opacity="0.25" stroke="#4DFF88" stroke-width="1.8"/>
+      <line x1="-11" y1="0" x2="11" y2="0" stroke="#A6FFCA" stroke-width="1"/>
+    </g>
+    <text x="0" y="64" text-anchor="middle" fill="#2AF5D6" font-family="monospace" font-size="12">CONSUMER EDGE + SHARD</text>
+    <text x="0" y="79" text-anchor="middle" fill="#3D5A6C" font-family="monospace" font-size="10">Distributed Mesh + Shard Core</text>
+  </g>
+</svg>
